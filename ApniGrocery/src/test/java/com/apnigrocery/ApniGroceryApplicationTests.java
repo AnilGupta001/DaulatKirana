@@ -1,13 +1,14 @@
 package com.apnigrocery;
 
+
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApniGroceryApplicationTests {
+public class ApniGroceryApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    public void contextLoads() {
+        // Your test code
+    }
 }
